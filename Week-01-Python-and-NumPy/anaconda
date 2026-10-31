@@ -1,0 +1,13 @@
+Aconda commands:
+
+to create a new environment:
+conda create --name example
+
+To have a look at the available env:
+conda env list
+
+to activate a specific env:
+conda activate example
+
+to open the IDE "spyder":
+enter your environment and type " spyder"
